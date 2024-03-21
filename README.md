@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-
+Stardew Valley theme for Droptop Four.
 </h4>
 
 <p align="center">
