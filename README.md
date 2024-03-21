@@ -51,8 +51,7 @@ Stardew Valley theme for Droptop Four.
     ```ini
     AppBarPosSetAction=[!Move ($left$+#BarXposOffset#) 0 "Droptop\Other\BackgroundProcesses"][!Move ($left$+#BarXposOffset#) ($top$+#BarXposOffset0#) "Droptop\DropdownBar"][!WriteKeyValue Variables TopBarX ($left$+#BarXposOffset#) "#@#GlobalVar\Control.inc"]
     ```
-
-
+- Refresh Droptop and enjoy.
 
 ## Download
 Download from [releases](https://github.com/KazukiGames82/Stardew_Valley-KazukiGames82/releases) or from the [website](https://www.droptopfour.com/community-themes/?id=36)
