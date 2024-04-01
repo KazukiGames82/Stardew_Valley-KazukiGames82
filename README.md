@@ -17,7 +17,7 @@ Stardew Valley theme for Droptop Four.
   <a href="https://droptopfour.com/discord">
       <img alt="Discord" src="https://img.shields.io/discord/800124057923485728">
   </a>
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/KazukiGames82/Stardew_Valley-KazukiGames82/total">
+  <img alt="Droptop Page Releases" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fdownloads%2Fcommunity-themes%2Fa73bbb84-a5f7-4c0f-aad0-33506b320b9a&label=downloads&query=%24.downloads">
 </p>
 
 <p align="center">
